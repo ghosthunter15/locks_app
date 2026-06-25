@@ -1,0 +1,20 @@
+DataTable {
+    height: 1fr;
+}
+
+LockForm {
+    dock: bottom;
+    height: auto;
+    padding: 1;
+    background: $panel;
+}
+
+Input {
+    margin: 1 0;
+}
+
+#status {
+    dock: bottom;
+    height: 1;
+    color: green;
+}

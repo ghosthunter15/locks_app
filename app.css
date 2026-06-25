@@ -1,0 +1,30 @@
+Screen {
+    padding: 0;
+}
+
+DataTable {
+    height: 1fr;
+    /* row-height is not supported anymore, default row height will be used */
+    scrollbar-size: 1 1;   /* horizontal vertical */
+}
+
+LockForm {
+    height: 100%;
+    padding: 1;
+    background: $panel;
+}
+
+Input {
+    height: 3;
+    margin: 1 0;
+}
+
+Button {
+    height: 3;
+}
+
+#status {
+    height: 1;
+    dock: bottom;
+    color: green;
+}

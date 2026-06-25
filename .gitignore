@@ -1,0 +1,9 @@
+*.swp
+*.py.swp
+*.md.swp
+.*.swp
+.*.py.swp
+.*.md.swp
+TODO
+*.css.bak
+*.py.bak
